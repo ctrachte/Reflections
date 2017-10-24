@@ -5,7 +5,7 @@ you need to do it to commit files in this repository
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-
+It is a medium between the working directory and the repository where changes can be made without changing either one until you save or commit. This allows additionaly control over your files.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
