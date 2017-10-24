@@ -11,7 +11,7 @@ How can you use the staging area to make sure you have one commit per logical
 change? You only need to add the parts of your program that were changed, rather than every file, so this means allows one commit per logical change.
 
 What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+organized? How would branches help? Branches will allow you to test new features and experiment with new code without changing the working master version. This helps you keep your history organized in case the experiment introduces bugs, or you decide not to keep the branch.
 
 How do the diagrams help you visualize the branch structure?
 
