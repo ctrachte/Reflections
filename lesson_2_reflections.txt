@@ -21,3 +21,8 @@ the diagram the way we do? the result is the unique code from both branches merg
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Pros:
+- Much faster if the code from each branch does not conflict
+- Can have multiple contributers
+Cons:
+- If code from both branches does not match, then additional time is needed to sort out and fix the conflicts.
